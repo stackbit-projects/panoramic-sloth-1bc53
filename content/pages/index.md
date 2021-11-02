@@ -79,7 +79,7 @@ sections:
       - author: Karl
         avatar: /images/karl-profile.jpg
         avatar_alt: Desmond Eagle's photo
-        position: 'CEO and founder, A Company'
+        position: CEO and husband
         content: >-
           Mia did an awesome job with our house. I love the way the colours
           intermingle and the tiling selections are top notch. I would not
