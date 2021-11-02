@@ -82,7 +82,8 @@ sections:
         position: 'CEO and founder, A Company'
         content: >-
           Mia did an awesome job with our house. I love the way the colours
-          intermingle and the tiling selections are top notch.
+          intermingle and the tiling selections are top notch. I would not
+          hesitate to recommend Mia.
       - author: Dianne Ameter
         avatar: images/dianne-ameter.jpg
         avatar_alt: Dianne Ameter's photo
